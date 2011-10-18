@@ -1,0 +1,7 @@
+#How to run it on Windows
+
+= Details =
+
+* It's just a matter of clicking on the exe :)
+
+* Don't forget that you need administrative rights or it won't work! (run as administrator on windows vista/7)
